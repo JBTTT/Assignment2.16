@@ -1,0 +1,41 @@
+[33mcommit 4cfdd3b7efd96452bf9fa5621191f22256e91c3c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: jibin <perseverancejbt@hotmail.com>
+Date:   Sun Oct 5 17:57:09 2025 +0800
+
+    Terraform code for Assignment 2.16 - Complete
+
+[33mcommit f5fdbdec2061cc96b018deb075e8f8fe1c4e7712[m
+Author: jibin <perseverancejbt@hotmail.com>
+Date:   Sun Oct 5 16:31:42 2025 +0800
+
+    Terraform code for Assignment2.16 with cloudwatch Infocount alarm
+
+[33mcommit 5e0f6efa0b993439153f68412d8e7fc80af3cd46[m
+Author: jibin <perseverancejbt@hotmail.com>
+Date:   Sun Oct 5 14:42:47 2025 +0800
+
+    Terraform Code for Assignment 2.16 base
+
+[33mcommit b1220f69bf616fed7afec46b87114ae6a76053a0[m[33m ([m[1;32msolution[m[33m)[m
+Author: jibin <perseverancejbt@hotmail.com>
+Date:   Sun Oct 5 00:48:46 2025 +0800
+
+    Terraform code for Assignment2.16
+
+[33mcommit fff37898d072eeb94f9ad061976d4a111e6a559b[m
+Author: jibin <perseverancejbt@hotmail.com>
+Date:   Wed Oct 1 22:07:21 2025 +0800
+
+    TF for Activity 2.15
+
+[33mcommit 5cd0d8dfbf7d859bbdbdbcdb0d4ec2ffc17ec0dd[m
+Author: Sean Lim <9212876+seanlim1@users.noreply.github.com>
+Date:   Fri Jan 3 23:07:34 2025 +0800
+
+    initial commit
+
+[33mcommit 02fb8b2f38e12d6ecca9e97672d2761e523f735e[m
+Author: Sean Lim <9212876+seanlim1@users.noreply.github.com>
+Date:   Mon Dec 30 13:54:14 2024 +0800
+
+    initial commit
